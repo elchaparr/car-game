@@ -1,0 +1,30 @@
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\carvideogame\carvideogame\bin\Debug\carvideogame.exe.config
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\carvideogame\carvideogame\bin\Debug\carvideogame.exe
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\carvideogame\carvideogame\bin\Debug\carvideogame.pdb
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\carvideogame\carvideogame\obj\Debug\carvideogame.Form1.resources
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\carvideogame\carvideogame\obj\Debug\carvideogame.Properties.Resources.resources
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\carvideogame\carvideogame\obj\Debug\carvideogame.csproj.GenerateResource.Cache
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\carvideogame\carvideogame\obj\Debug\carvideogame.exe
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\carvideogame\carvideogame\obj\Debug\carvideogame.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\carvideogame\carvideogame\obj\Debug\carvideogame.csprojResolveAssemblyReference.cache
+D:\memoria\Programacion\carvideogame\carvideogame\bin\Debug\carvideogame.exe.config
+D:\memoria\Programacion\carvideogame\carvideogame\obj\Debug\carvideogame.exe
+D:\memoria\Programacion\carvideogame\carvideogame\obj\Debug\carvideogame.pdb
+D:\memoria\Programacion\carvideogame\carvideogame\bin\Debug\carvideogame.exe
+D:\memoria\Programacion\carvideogame\carvideogame\bin\Debug\carvideogame.pdb
+D:\memoria\Programacion\carvideogame\carvideogame\obj\Debug\carvideogame.csprojResolveAssemblyReference.cache
+D:\memoria\Programacion\carvideogame\carvideogame\obj\Debug\carvideogame.Form1.resources
+D:\memoria\Programacion\carvideogame\carvideogame\obj\Debug\carvideogame.Properties.Resources.resources
+D:\memoria\Programacion\carvideogame\carvideogame\obj\Debug\carvideogame.csproj.GenerateResource.Cache
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\bin\Debug\carvideogame.exe.config
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\bin\Debug\carvideogame.exe
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\bin\Debug\carvideogame.pdb
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.csproj.AssemblyReference.cache
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.Form1.resources
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.Properties.Resources.resources
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.csproj.GenerateResource.cache
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.csproj.CoreCompileInputs.cache
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.exe
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.pdb
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.Form2.resources
+D:\proyectos para presentar\visual 4cuatri tabajos\carvideogame\carvideogame\obj\Debug\carvideogame.Form3.resources
