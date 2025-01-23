@@ -1,21 +1,21 @@
-# Juego de Carros - README
+# Car Game - README
 
-## Descripción
+## Description
 
-Este es un juego desarrollado en C# utilizando Windows Forms. El objetivo del juego es controlar un carro para esquivar otros carros que se aproximan, mientras recoges monedas que aparecen en el camino. Cuando el jugador pierde, el juego guarda la cantidad de monedas recolectadas junto con el nombre del jugador en una base de datos para su posterior visualización y seguimiento.
+This is a game developed in C# using Windows Forms. The objective of the game is to control a car to avoid other approaching cars, while collecting coins that appear along the way. When the player loses, the game saves the number of coins collected along with the player's name in a database for later viewing and tracking.
 
-## Características
+## Characteristics
 
-- **Movimiento del carro**: Usa las teclas de flechas para mover el carro hacia la izquierda o derecha.
-- **Esquivar obstáculos**: Evita chocar con los carros que se mueven hacia ti.
-- **Recolectar monedas**: A medida que esquivas los obstáculos, puedes recoger monedas que aumentan tu puntaje.
-- **Base de datos**: Cuando el jugador pierde, su nombre y las monedas recolectadas se guardan en una base de datos para llevar el registro de las mejores puntuaciones.
+- **Cart movement**: Use the arrow keys to move the cart left or right.
+- **Avoid obstacles**: Avoid colliding with the cars that are moving towards you.
+- **Collect coins**: As you avoid obstacles, you can collect coins that increase your score.
+- **Database**: When the player loses, his name and the coins collected are saved in a database to keep track of the best evaluations.
 
-## Requisitos
+##Requirements
 
-- **Sistema Operativo**: Windows
-- **Plataforma**: .NET Framework 
-- **Base de Datos**: SQL Server (o cualquier sistema de base de datos SQL compatible)
-- **Herramientas necesarias**:
-  - Visual Studio 2019 o superior
-  - SQL Server Management Studio 
+- **Operating System**: Windows
+- **Platform**: .NET Framework (compatible with versions 4.6.1 onwards)
+- **Database**: SQL Server (or any compatible SQL database system)
+- **Necessary tools**:
+  - Visual Studio 2019 or higher
+  - SQL Server Administration Studio
